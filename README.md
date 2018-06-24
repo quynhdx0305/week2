@@ -48,7 +48,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/ljO24EX.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://i.imgur.com/GJUoJ53.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
