@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/miFilter"
+        android:icon="@drawable/ic_sort_black_24dp"
+        app:showAsAction="ifRoom"
+        android:onClick="onFilterAction"
+        android:title="Filter">
+    </item>
+    <item
+        android:id="@+id/miAbout"
+        android:icon="@drawable/ic_more_vert_black_24dp"
+        app:showAsAction="ifRoom|withText"
+        android:onClick="onAboutAction"
+        android:title="About">
+    </item>
+</menu>
